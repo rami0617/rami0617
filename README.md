@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning Javascript and React.
+
+🏃‍♀️ I'm interested in continuous growth and I like to communicate with people.
