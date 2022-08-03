@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 🏃‍♀️ I'm interested in continuous growth and I like to communicate with people.
 
 🔥 I'm studying to become a frontend developer
+
+📫 How to reach me: aramdev0617@gmail.com
