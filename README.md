@@ -1,4 +1,4 @@
-### Hi I'm Choi A ram👋
+### 안녕하세요. 프론트엔드 개발자 최아람입니다.
 
 <!--
 **rami0617/rami0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Javascript and React.
+🌱 사용자들과 프로덕트를 통해 상호작용 하는것이 즐거워 프론트엔드 개발을 시작했습니다.
+🏃‍♀️ 지속적인 성장과 사람들에게 관심이 많습니다.
 
-🏃‍♀️ I'm interested in continuous growth and I like to communicate with people.
-
-📫 How to reach me: aramdev0617@gmail.com
+📫 aramdev0617@gmail.com
