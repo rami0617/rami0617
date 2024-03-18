@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🌱 사용자들과 프로덕트를 통해 상호작용 하는것이 즐거워 프론트엔드 개발을 시작했습니다.
+
 🏃‍♀️ 지속적인 성장과 사람들에게 관심이 많습니다.
 
 📫 aramdev0617@gmail.com
