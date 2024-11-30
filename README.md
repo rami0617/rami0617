@@ -1,5 +1,7 @@
 ### 안녕하세요. 프론트엔드 개발자 최아람입니다.
-
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
 <!--
 **rami0617/rami0617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
